@@ -1,5 +1,6 @@
-96410cc956b3857c65252f53418b6dad *DESCRIPTION
+28fafbcaee6cb61736adb20333f5c90a *DESCRIPTION
 3bef4f3ef0dcac3af01f9fa95860d63e *NAMESPACE
+fad645c7022a6fcfdc7533c4716bbc84 *NEWS.md
 e2af48b139fc05880968938f16de8912 *R/additionalDescriptors.R
 a4b70c8790d61dd88a0e40d6f51d0057 *R/calcDIs.R
 c510081b073011e1b61bb91a2038763b *R/makeAnalysisTable.R
@@ -13,11 +14,11 @@ dabea58a0c02d9b845c433c8ae03a626 *R/phenotypingTemplate.R
 d43bea90135213892ed7e0a67b57b4c7 *R/rf.R
 91aac1f0351d598241dbd3f0941607e0 *R/siteAdjustment.R
 1ea8a10ac68d8481a7a997ece051f1a6 *R/siteAdjustmentFactors.R
-1c0623e419a611ad02f9731be0712093 *README.md
-ea0332533fd16e92fa8de56132e3e52c *build/vignette.rds
+5495fefb176037c3b8c7ca7f4df8ea7c *README.md
+1dc31e56a1ed69357380d04a7d4135b1 *build/vignette.rds
 88c0425c54313112c97ca4f6b2b35078 *inst/doc/pdi-example.R
-e897dfa7c1b3b0b72eea623b5f8541f7 *inst/doc/pdi-example.Rmd
-8bb63de14a81010d031aa8541d63bbba *inst/doc/pdi-example.html
+c81794a3dceed4b7d05eebc06f3990bf *inst/doc/pdi-example.Rmd
+593b95f216053959130f3ab4351892e2 *inst/doc/pdi-example.html
 fe1354cf1a8e2a23c83b4ba5bcfac30f *inst/phenotypeDataCollectionSheets/example_site_1.xlsx
 a201b451b99a0e89714e1522d27c2dd4 *inst/phenotypeDataCollectionSheets/example_site_2.xlsx
 84bd88ac8a268cb85731b016dd4cbbff *inst/template/phenotyping_template.xlsx
@@ -45,5 +46,5 @@ daab3bf24ee73edfff0da914092c5af9 *tests/testthat.R
 9a95bb0ce948760ac4fc4435b66101cb *tests/testthat/test-calcDIs.R
 1be100ccc8b3785c43a84ec74a2d4970 *tests/testthat/test-minMaxScale.R
 3d9a383e2a1adfdfa51e6ea8908244ff *tests/testthat/test-phenotypingTemplate.R
-e897dfa7c1b3b0b72eea623b5f8541f7 *vignettes/pdi-example.Rmd
+c81794a3dceed4b7d05eebc06f3990bf *vignettes/pdi-example.Rmd
 456b2f267ba762a5d2114a3b29374cf2 *vignettes/references.bib

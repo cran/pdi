@@ -30,6 +30,10 @@ These include:
 * **Decline Acuteness Index (DAI)** - a measure to differentiate between Chronic Oak Decline (COD) and Acute Oak Decline with a score between -1 and 1. Acutely declining trees having
 a score closer to 1 and chronically declining trees having a score closer to -1.
 
+For more information on the methodology behind generating these decline indexes, see the article:
+
+[Finch, J.P., Brown, N., Beckmann, M., Denman, S. and Draper, J., 2021. Index measures for oak decline severity using phenotypic descriptors. Forest Ecology and Management, 485, p.118948.](https://doi.org/10.1016/j.foreco.2021.118948)
+
 This vignette will provide an example framework of how to generate these decline indexes based on the machine learning algorithm random forest, using an example set of phenotypic descriptors.
 
 To begin, load the package:
